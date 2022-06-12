@@ -7,19 +7,19 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-# Algorithm :
+## Algorithm :
 
-## STEP 1: Use the standard libraries in python for finding linear regression.
+### STEP 1: Use the standard libraries in python for finding linear regression.
 
-## STEP 2: Set variables for assigning dataset values
+### STEP 2: Set variables for assigning dataset values
 
-## STEP 3: Import linear regression from sklearn.
+### STEP 3: Import linear regression from sklearn.
 
-## STEP 4: Predict the values of array
+### STEP 4: Predict the values of array
 
-## STEP 5: Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+### STEP 5: Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 
-# Program:
+## Program:
 ~~~
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: H.Syed Abdul Wasih
@@ -69,7 +69,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.show()
 ~~~
 
-# Output:
+## Output:
 
 ![output](1.png)
 ![output](2.png)
